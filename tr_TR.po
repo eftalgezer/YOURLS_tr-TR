@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: YOURLS 1.7\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
 "PO-Revision-Date: 2014-01-11 11:51+0100\n"
-"Last-Translator: Ozh <ozh[at]ozh.org>\n"
+"Last-Translator: Eftal Gezer\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,14 +20,14 @@ msgstr ""
 #: yourls-infos.php:204
 #, php-format
 msgid "Statistics for %s"
-msgstr ""
+msgstr "%s için istatistikler"
 
 #: yourls-infos.php:211 admin/index.php:15 admin/index.php:34
 #: admin/index.php:93 includes/functions-html.php:209
 #: includes/functions-html.php:221 includes/functions-html.php:464
 #: includes/functions-html.php:626
 msgid "Short URL"
-msgstr ""
+msgstr "Kısa URL"
 
 #: yourls-infos.php:227
 msgid "Aggregate stats for duplicate short URLs"
